@@ -165,7 +165,7 @@ html {
     font-family: Merriweather,Georgia,serif;
     font-size: 100%;
 }
-* {
+article *, .header-container *  {
     line-height: 1.625rem;
     margin: 0 0 1.625rem;
 }
@@ -341,7 +341,7 @@ body, html {
     max-width: none;
     width: 100%;
 }
-* {
+article *, .header-container *  {
     line-height: 1.72222rem;
     margin-bottom: 1.72222rem;
     margin-left: auto;
