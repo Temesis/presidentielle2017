@@ -2,7 +2,7 @@
 enhance user experience on websites
  Copyright (C) 2014 - 2017 Orange */
 var hebergementDomaine = 'https://temesis.github.io';
-var hebergementFullPath = hebergementDomaine + 'presidentielle2017';
+var hebergementFullPath = hebergementDomaine + '/presidentielle2017/';
 // Source: app/conf/hebergement.js
 /*
 
