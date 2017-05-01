@@ -1,12 +1,12 @@
-.header-container nav{background:black;}
+.header-container {background:#24292e;}
+.header-container nav{background:#24292e;margin:0px auto;}
 .header-container nav ul {margin:0;padding:0}
 .header-container nav li{display:inline-block;width:49%;text-align:center;padding:20px 0px;margin:0px;}
 .header-container nav li a{color:white;}
 .header-container nav li a:hover, .header-container nav li a:focus, .header-container nav li a:active, .header-container nav li a:visited, .header-container nav li a:visited:hover{color:white;}
-
-hr + h1 {
-    margin-top: 0;
-}
+.header-container header{background:#fafbfc;border-bottom:1px solid #e1e4e8;max-width:100% !important;padding:1.72222rem 0em 0em 0em; font-size:80%;}
+.header-container header p{margin-bottom:1em;}
+article > h1{margin-top:2rem;}
 
 .hljs {
     background: #f8f8f8 none repeat scroll 0 0;
